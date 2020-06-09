@@ -1,6 +1,6 @@
 # DeBERTa: Decoding-enhanced BERT with Disentangled Attention
 
-This is the repository of the implementation of **DeBERTa**
+This is the repository of the implementation of [**DeBERTa**](https://arxiv.org/abs/2006.03654)
 
 Our code is still under the business process of releasing, it will be ready by the end of this week.
 
